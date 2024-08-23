@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "name": "hello-world",
+    "version-string": "0.0.1",
+    "dependencies": [
+        "simpleini",
+        "nlohmann-json",
+        "spdlog",
+        "rapidcsv",
+        "fast-cpp-csv-parser",
+        "rsm-binary-io",
+        "clib-util",
+        "directxtk"
+    ]
+}
